@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need it?
+
+	A tracking file .git is created and
+	the changes in the files that are
+	in the directoy	are able to be tracked.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	The staging area let us know wich file we
+	want the changes to be tracked. It is important
+	to organize what we want to commit.
