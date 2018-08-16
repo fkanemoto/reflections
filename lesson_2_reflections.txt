@@ -10,7 +10,7 @@ How is the staging area different from the working directory and the repository?
 	want the changes to be tracked. It is important
 	to organize what we want to commit.
 
-Hoow can you use the staging area to make sure you have one commit per logical change?
+How can you use the staging area to make sure you have one commit per logical change?
 
 	Using "git diff --staged" I can see what
 	change I want to commit and if it is
