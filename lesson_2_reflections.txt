@@ -31,3 +31,8 @@ What is the result of merging two branches together? Why do we represent it in t
 	The two branches turn into one and all the
 	commits of both branches are reacheable and 
 	appears in the log by their time of commit.
+
+what are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+	Doing automatic mergins is more practic, while
+	doing it manually we can solve merge conflicts.
